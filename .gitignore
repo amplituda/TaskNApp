@@ -1,6 +1,5 @@
 # ===== Start Node.gitignore =====
 # Logs
-public
 logs
 *.log
 npm-debug.log*
