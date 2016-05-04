@@ -1,5 +1,5 @@
 {
-  "firebase": "ak-task",
+  "firebase": "ak-new-task",
   "public": "public",
   "ignore": [
     "firebase.json",
